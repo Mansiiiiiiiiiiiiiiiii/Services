@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
 
 - **assignment.html**: The main HTML file containing the structure and content.
 - **style.css**: Custom styles for the diagonal background and service cards.
-- **Images**: Ensure you have the relevant image files (e.g., `Plumbing.png`, `plumbing and drains.png`, etc.) in the same directory as `index.html`.
+- **Images**: relevant image files (e.g., `Plumbing.png`, `plumbing and drains.png`, etc.) in the same directory as `index.html`.
 
 ## Custom Styling
 
